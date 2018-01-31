@@ -18,4 +18,6 @@
 > Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc).
 > Visos nuorodos vienoje norint gauti užduotims skirtą repozitoriją : (https://classroom.github.com/classrooms/34885264-vk-eif-marius-gzegozevskis)
 ### REZULTATAI
-
+Rezultatus rasite čia: (https://docs.google.com/spreadsheets/d/e/2PACX-1vTNi2q4gZA2wqWGSDFSN8FsdLK6-DrkADRIGVkNSTlQgpIXUDZCL-D_DdDNadCtw77WbTbxaZf3ZwrX/pubhtml?gid=1450898108&single=true).
+### APKLAUSA IR ATSILIEPIMAI 
+Pateikite savo nuomonę, siūlymus pasinaudoje šia nuoroda (https://docs.google.com/forms/d/e/1FAIpQLSdPbeONXYZYX-kC_iFE4kcY6R8QEofm8_INNQOz9CER7xabpA/viewform?embedded=true).
