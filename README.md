@@ -3,7 +3,7 @@
 > - Galutinis įvertinimas (100%) = Testas (20%) + Praktinių užduočių vidurkis (80%). 
 > - Kaupiamasis balas yra užskaitomas jeigu visos dalys yra įvertintos teigiamai.
 > - Bendra fakulteto informacija dėl skolų perlaikymo tvarkos (https://eif.viko.lt/media/uploads/sites/5/2017/03/studentams_18-01-09.pdf).
-### TESTAS - EGZAMINAS
+### TESTAS
 > - Testas yra atliekamas kompiuterinėse auditorijose prie kolegijos PC, asmeninio kompiuterio, telefono, planšetės ar kito prietaiso turinčio internetinę naršyklę.
 > - Testo-egzamino nuoroda (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtUNTVPRkpXUjhLTUxWRk1YS1E0TkwyNktaRi4u). Atlikti testą galėsite tik prisijungę prie mail.office365.com su suteiktu prisijungimo vardu (pvz.: s000012@ad.viko.lt).
 ### PRAKTINĖS UŽDUOTYS
