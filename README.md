@@ -16,4 +16,6 @@
 > - Vienas iš pagrindinių uždavinių susipažinti su kodo versijavimo sistema GIT, čia pora nuorodų kaip pradėti:
 > Github (https://www.youtube.com/watch?v=0fKg7e37bQE).
 > Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc).
+> Visos nuorodos vienoje norint gauti užduotims skirtą repozitoriją : (https://classroom.github.com/classrooms/34885264-vk-eif-marius-gzegozevskis)
+### REZULTATAI
 
