@@ -7,7 +7,7 @@
 > - Testas yra atliekamas kompiuterinėse auditorijose prie kolegijos PC, asmeninio kompiuterio, telefono, planšetės ar kito prietaiso turinčio internetinę naršyklę.
 > - Testo-egzamino nuoroda (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtUNTVPRkpXUjhLTUxWRk1YS1E0TkwyNktaRi4u). Atlikti testą galėsite tik prisijungę prie mail.office365.com su suteiktu prisijungimo vardu (pvz.: s000012@ad.viko.lt).
 ### PRAKTINĖS UŽDUOTYS
-> - Praktinės užduotys yra suskirstytos į dvi dalis keturios užduotys yra individualios (#1, #2, #3, #4) ir viena užduotis darbas grupėje (#5), kurias rasite **Issues tab'e** pagal pateikta numeracija.
+> - Praktinės užduotys yra suskirstytos į dvi dalis keturios užduotys yra individualios (#1, #2, #3, #4) ir viena užduotis darbas grupėje (#5), kurias rasite **Issues tab'e** pagal pateiktą numeracija.
 > - Kiekvienas iš studentų privalote susikurti Github paskyrą, jeigu jos neturėjote. Būtų gerai, kad šios paskyros pavadinimas būtų:
 `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`
 > - Sekantis etapas visi privalote pasinaudoję šia nuoroda (https://classroom.github.com/a/VMxdf01Y) priimti pakvietimą (angl. invitation).
