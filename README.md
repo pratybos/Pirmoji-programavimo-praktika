@@ -16,10 +16,11 @@
 > - Vienas iš pagrindinių uždavinių susipažinti su kodo versijavimo sistema GIT, čia pora nuorodų kaip pradėti:
 > Github (https://www.youtube.com/watch?v=0fKg7e37bQE).
 > Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc).
-> Visos nuorodos vienoje norint gauti užduotims skirtą repozitoriją : (https://classroom.github.com/classrooms/34885264-vk-eif-marius-gzegozevskis)
+
 ### REZULTATAI
 > Rezultatus rasite čia: (https://docs.google.com/spreadsheets/d/e/2PACX-1vTNi2q4gZA2wqWGSDFSN8FsdLK6-DrkADRIGVkNSTlQgpIXUDZCL-D_DdDNadCtw77WbTbxaZf3ZwrX/pubhtml?gid=1450898108&single=true).
 ### APKLAUSA IR ATSILIEPIMAI 
 > Pateikite savo nuomonę, siūlymus pasinaudoje šia nuoroda (https://docs.google.com/forms/d/e/1FAIpQLSdPbeONXYZYX-kC_iFE4kcY6R8QEofm8_INNQOz9CER7xabpA/viewform?embedded=true).
 ### SVARBI INFORMACIJA 
-Internetinė svetainė: https://eif-courses.github.io/ visi reikalavimai pateikti ten jums yra negaliojantys. Viskas kas aprašyta aukščiau yra teisinga ir tuo vadovautis.
+> Visos nuorodos vienoje vietoje norint gauti pakvietimą skirtą užduotims atlikti (Praktinės, Projektas), kur jum sukurs naują repozitoriją : (https://classroom.github.com/classrooms/34885264-vk-eif-marius-gzegozevskis).
+> Internetinė svetainė: https://eif-courses.github.io/ visi reikalavimai pateikti ten jums yra negaliojantys. Viskas kas aprašyta aukščiau yra teisinga ir tuo vadovautis.
