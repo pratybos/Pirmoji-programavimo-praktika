@@ -15,9 +15,9 @@
 ---
 ### PRAKTINĖS UŽDUOTYS
 ---
- ![alt text][logo] Praktinių užduočių formuluotes rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues).\
- ![alt text][logo] Sukurti naują Github paskyrą: `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`\
- ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. invitation) jums automatiškai sukurs privačią repozitoriją (katalogą), kurioje privalote talpinti visas savo atliktas užduotis.\
+ ![alt text][logo] Praktinių užduočių formuluotes rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues).<br/>
+ ![alt text][logo] Sukurti naują Github paskyrą: `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`<br/>
+ ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. invitation) jums automatiškai bus sukurta privati repozitorija (katalogas), kurią matysite jūs ir dėstytojas. <br/> Visas atliktas praktines užduotis: #1, #2, #3, #4 privalote talpinti šioje repozitorijoje.
  
 ---
 ### DARBAS GRUPĖJE
