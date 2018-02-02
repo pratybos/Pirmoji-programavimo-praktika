@@ -1,8 +1,8 @@
 ## PIRMOJI PROGRAMAVIMO PRAKTIKA
 ### VERTINIMO KRITERIJAI - KAUPIAMOJO BALO FORMULĖ 
-> - Galutinis įvertinimas (100%) = Testas (20%) + Praktinių užduočių vidurkis (50%) + Darbas grupėje (30%). 
-> - Kaupiamasis balas yra užskaitomas jeigu visos dalys yra įvertintos teigiamai.
-> - Bendra fakulteto informacija dėl skolų perlaikymo tvarkos (https://eif.viko.lt/media/uploads/sites/5/2017/03/studentams_18-01-09.pdf).
+> ![alt text][logo]  Galutinis įvertinimas (100%) = Testas (20%) + Praktinių užduočių vidurkis (50%) + Darbas grupėje (30%).\
+> ![alt text][logo]  Kaupiamasis balas yra užskaitomas jeigu visos dalys yra įvertintos teigiamai.\
+> ![alt text][logo]  Bendra fakulteto informacija dėl skolų perlaikymo tvarkos (https://eif.viko.lt/media/uploads/sites/5/2017/03/studentams_18-01-09.pdf).
 ### TESTAS
 > - Testas yra atliekamas kompiuterinėse auditorijose prie kolegijos PC, asmeninio kompiuterio, telefono, planšetės ar kito prietaiso turinčio internetinę naršyklę.
 > - Testo-egzamino nuoroda (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtUNTVPRkpXUjhLTUxWRk1YS1E0TkwyNktaRi4u). Atlikti testą galėsite tik prisijungę prie mail.office365.com su suteiktu prisijungimo vardu (pvz.: s000012@ad.viko.lt).
@@ -28,6 +28,10 @@
 ### SVARBI INFORMACIJA 
 > Visos nuorodos vienoje vietoje norint gauti pakvietimą skirtą užduotims atlikti (Praktinės, Projektas), kur jum sukurs naują repozitoriją : (https://classroom.github.com/classrooms/34885264-vk-eif-marius-gzegozevskis).
 > Internetinė svetainė: https://eif-courses.github.io/ visi reikalavimai pateikti ten jums yra negaliojantys. Viskas kas aprašyta aukščiau yra teisinga ir tuo vadovautis.
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+
+![alt text](https://github.com/eif-courses/Duomenu-strukturos-ir-algoritmai/blob/master/list%20item.png "list item picture")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/eif-courses/Duomenu-strukturos-ir-algoritmai/blob/master/list%20item.png "list item rectangle"
