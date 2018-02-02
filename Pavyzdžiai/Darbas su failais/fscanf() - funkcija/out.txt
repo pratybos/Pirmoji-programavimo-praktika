@@ -1,0 +1,4 @@
+vardas:Marius pavarde:Gzegozevskis amzius:29
+vardas:Jonas pavarde:Jonaitis amzius:32
+vardas:Petras pavarde:Petraitis amzius:45
+vardas:Birute pavarde:Onaitiene amzius:38
