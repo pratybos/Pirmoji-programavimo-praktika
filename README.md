@@ -12,7 +12,7 @@
 `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`
 > - Sekantis etapas visi privalote pasinaudoję šia nuoroda (https://classroom.github.com/a/VMxdf01Y) priimti pakvietimą (angl. invitation).
 > - Kai šią nuorodą patvirtinsite jūs automatiškai sukursite privačią repozitoriją, kurioje ir privalote talpinti visas atliktas praktines užduotis. 
-#### DARBAS GRUPĖJE
+### DARBAS GRUPĖJE
 > - Sukurti savo komandą ir sugalvoti jai pavadinimą. 
 > - Išsirinkite komandos vadovą. 
 > - Komandos vadovas privalo pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) sukurti komandą ir į ją pakviesti \
