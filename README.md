@@ -11,8 +11,12 @@
 > - Kiekvienas iš studentų privalote susikurti Github paskyrą, jeigu jos neturėjote. Būtų gerai, kad šios paskyros pavadinimas būtų:
 `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`
 > - Sekantis etapas visi privalote pasinaudoję šia nuoroda (https://classroom.github.com/a/VMxdf01Y) priimti pakvietimą (angl. invitation).
-> - Kai šią nuorodą patvirtinsite jūs automatiškai sukursite privačią repozitoriją, kurioje ir privalote talpinti visas atliktas praktines užduotis išskyrūs darbui grupėje reikia sukurti savo komandą pasirinite pavadinimą ir vadovą, kuris pakvies narius į jūsų komandą (https://classroom.github.com/g/5xKI20tj).
-> Komanda privalo būti sudaryta iš 2-4 studentų.
+> - Kai šią nuorodą patvirtinsite jūs automatiškai sukursite privačią repozitoriją, kurioje ir privalote talpinti visas atliktas praktines užduotis. 
+#### DARBAS GRUPĖJE
+> - Sukurti savo komandą ir sugalvoti jai pavadinimą. 
+> - Išsirinkite komandos vadovą. 
+> - Komandos vadovas privalo pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) sukurti komandą ir į ją pakviesti \
+> - Komanda privalo būti sudaryta iš 2 - 4 studentų.
 > - Vienas iš pagrindinių uždavinių susipažinti su kodo versijavimo sistema GIT, čia pora nuorodų kaip pradėti:
 > Github (https://www.youtube.com/watch?v=0fKg7e37bQE).
 > Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc).
