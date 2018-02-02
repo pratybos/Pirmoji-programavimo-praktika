@@ -29,6 +29,4 @@
 > ![alt text][logo] Visos nuorodos vienoje vietoje norint gauti pakvietimą skirtą užduotims atlikti (Praktinės, Projektas), kur jum sukurs naują repozitoriją : (https://classroom.github.com/classrooms/34885264-vk-eif-marius-gzegozevskis).<br/>
 > ![alt text][logo] Internetinė svetainė: https://eif-courses.github.io/ visi reikalavimai pateikti ten jums yra negaliojantys. Viskas kas aprašyta aukščiau yra teisinga ir tuo vadovautis.
 
-![alt text](https://github.com/eif-courses/Duomenu-strukturos-ir-algoritmai/blob/master/list%20item.png "list item picture")
-
 [logo]: https://github.com/eif-courses/Duomenu-strukturos-ir-algoritmai/blob/master/list%20item.png "list item rectangle"
