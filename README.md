@@ -2,7 +2,7 @@
 ---
 ### VERTINIMO KRITERIJAI - KAUPIAMOJO BALO FORMULĖ 
 ---
- ![alt text][logo]  Galutinis įvertinimas (100%) = Testas (20%) + Praktinių užduočių vidurkis (50%) + Darbas grupėje (30%).\
+ ![alt text][logo]  Galutinis įvertinimas (100%) = Testas (20%) + Praktinių užduočių vidurkis (50%) + Projektas (30%).\
  ![alt text][logo]  Kaupiamasis balas yra užskaitomas jeigu visos dalys yra įvertintos teigiamai.\
  ![alt text][logo]  Bendra fakulteto informacija dėl skolų perlaikymo tvarkos (https://eif.viko.lt/media/uploads/sites/5/2017/03/studentams_18-01-09.pdf).
  
@@ -21,7 +21,7 @@
  ![alt text][logo] Visas atliktas praktines užduotis: #1, #2, #3, #4 privalote talpinti šioje repozitorijoje.
  
 ---
-### DARBAS GRUPĖJE
+### PROJEKTAS - DARBAS GRUPĖJE
 ---
  ![alt text][logo] Sukurti savo komandą ir sugalvoti jai pavadinimą. <br/>
  ![alt text][logo] Išsirinkite komandos vadovą.\
