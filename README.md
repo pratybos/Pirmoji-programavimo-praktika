@@ -2,7 +2,7 @@
 ---
 ![alt text][logo] Visos užduotys yra atliekamos naudojant programavimo kalbą C/C++.  <br/>
 ![alt text][logo] Visos atliktos užduotys privalo būti patalpintos Github aplinkoje (praktinės užduotys ir projektas). <br/>
-![alt text][logo] Privalote laikytis sąžiningumo taisyklių, kadangi kodo versijavimo aplinkoje yra antiplagijavimo sistema, kuri parodo visus kodo fragmentų, dokumentų sutapimus, jeigu bus nustatyta jog pasiskolinote mintis iš kolegos užduotis bus neužskaitoma. <br/>
+![alt text][logo] Privalote laikytis sąžiningumo taisyklių, kadangi kodo versijavimo aplinkoje yra antiplagijavimo sistema, kuri parodo visus kodo fragmentų, dokumentų sutapimus. Jeigu bus nustatyta jog pasiskolinote mintis iš kolegos užduotis bus neužskaitoma. <br/>
 ![alt text][logo] Žemiau rasite pateiktą informaciją ir reikalavimus užduotims atlikti.  
 ![alt text][logo] Kompiliatorius online (https://www.tutorialspoint.com/compile_c_online.php).<br/>
 ![alt text][logo] Programavimo IDE renkatės jūs: Dev-C/C++, Codelite, CodeBlocks, CLion ar kt.
@@ -25,10 +25,10 @@
 ---
  ![alt text][logo] Praktinių užduočių formuluotes rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues).<br/>
  ![alt text][logo] Sukurti naują versijų kontrolės Github paskyrą: `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`<br/>
- ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. accept this assigment) (žr. 1 pav.).  ![Invitation langas](https://image.ibb.co/ewCorH/invitation.png)
+ ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. accept this assigment) (žr. 1 pav.):  ![Invitation langas](https://image.ibb.co/ewCorH/invitation.png)
 `1 pav. Pakvietimo nuorodos langas (prisijungusiems su Github paskyra)`
  
- jums automatiškai bus sukurta privati repozitorija (katalogas), kurią matysite jūs ir dėstytojas (žr. 2 pav.). 
+ Jums automatiškai bus sukurta privati repozitorija (katalogas), kurią matysite jūs ir dėstytojas (žr. 2 pav.):
  
  ![Sukurta repo](https://image.ibb.co/g9DLqc/sukurti_repo.png)
 `2 pav. Sukurta nauja repozitorija grupes_pav+vartotojo_vardas.`
