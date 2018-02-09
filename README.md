@@ -4,14 +4,24 @@
 ![alt text][logo] Visos atliktos užduotys privalo būti patalpintos Github aplinkoje (praktinės užduotys ir projektas). <br/>
 ![alt text][logo] Privalote laikytis sąžiningumo taisyklių, kadangi kodo versijavimo aplinkoje yra antiplagijavimo sistema, kuri parodo visus kodo fragmentų, dokumentų sutapimus. Jeigu bus nustatyta jog pasiskolinote mintis iš kolegos užduotis bus neužskaitoma. <br/>
 ![alt text][logo] Žemiau rasite pateiktą informaciją ir reikalavimus užduotims atlikti.  
-![alt text][logo] Kompiliatorius online (https://www.tutorialspoint.com/compile_c_online.php).<br/>
-![alt text][logo] Programavimo IDE renkatės jūs: Dev-C/C++, Codelite, CodeBlocks, CLion ar kt.
-![alt text][logo] Susipažinti su kodo versijavimo sistema **Git**, čia pora nuorodų pradedantiesiems su versijų kontrolės įrankiais:
-Github (https://www.youtube.com/watch?v=0fKg7e37bQE). Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc). 
-> - Atsisiųsti Git: (https://git-scm.com/downloads).
-> - Atsisiųsti Github: (https://desktop.github.com).
-> - Galima naudoti bet kokį kitą įrankį arba komandinę eilutę.
+
 ---
+
+### PROGRAMINĖ ĮRANGA
+
+![alt text][logo] Kompiliatorius online (https://www.tutorialspoint.com/compile_c_online.php).<br/>
+![alt text][logo] Programavimo IDE renkatės jūs: Dev-C/C++, Codelite, CodeBlocks, CLion ar kt. <br/>
+![alt text][logo] Susipažinti su kodo versijavimo sistema **Git**, čia pora nuorodų pradedantiesiems su programinio kodo versijų kontrolės įrankiais: 
+> - Github (https://www.youtube.com/watch?v=0fKg7e37bQE). 
+> - Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc). 
+
+![alt text][logo] Atsisiųsti Git: (https://git-scm.com/downloads).
+
+![alt text][logo] Atsisiųsti Github: (https://desktop.github.com).
+
+![alt text][logo] Galima naudoti bet kokį kitą įrankį arba komandinę eilutę.
+
+
 ### VERTINIMO KRITERIJAI - KAUPIAMOJO BALO FORMULĖ 
 ---
  ![alt text][logo]  Galutinis įvertinimas (100%) = Testas (20%) + Praktinių užduočių vidurkis (50%) + Projektas (30%).\
