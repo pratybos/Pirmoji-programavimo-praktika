@@ -53,7 +53,12 @@
  
  ![Paskyros langas](https://image.ibb.co/gfNYbH/team_kaip_atrodo.png)
  
+ Žemiau pateikta komandos repozitorija, kurioje bus talpinas programinis kodas.
+ 
+ ![Paskyros langas](https://image.ibb.co/ccWtbH/pratybos_praktika.png)
+ 
  ![alt text][logo] Komanda privalo būti sudaryta iš 2 - 4 studentų.
+ 
  
 ---
 ### REZULTATAI
