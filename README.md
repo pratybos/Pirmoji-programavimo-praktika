@@ -6,7 +6,11 @@
 ![alt text][logo] Žemiau rasite pateiktą informaciją ir reikalavimus užduotims atlikti.  
 ![alt text][logo] Kompiliatorius online (https://www.tutorialspoint.com/compile_c_online.php).<br/>
 ![alt text][logo] Programavimo IDE renkatės jūs: Dev-C/C++, Codelite, CodeBlocks, CLion ar kt.
-
+![alt text][logo] Susipažinti su kodo versijavimo sistema **Git**, čia pora nuorodų pradedantiesiems su versijų kontrolės įrankiais:
+Github (https://www.youtube.com/watch?v=0fKg7e37bQE). Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc). 
+> - Atsisiųsti Git: (https://git-scm.com/downloads).
+> - Atsisiųsti Github: (https://desktop.github.com).
+> - Galima naudoti bet kokį kitą įrankį arba komandinę eilutę.
 ---
 ### VERTINIMO KRITERIJAI - KAUPIAMOJO BALO FORMULĖ 
 ---
