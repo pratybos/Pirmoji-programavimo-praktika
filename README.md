@@ -40,6 +40,14 @@
  ![alt text][logo] Sukurti savo komandą ir sugalvoti jai pavadinimą. <br/>
  ![alt text][logo] Išsirinkite komandos vadovą.\
  ![alt text][logo] Komandos vadovas pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) privalo sukurti komandą ir į ją pakviesti komandos narius.\
+ 
+ Čia prisijungimo langas prie komados reikia patvirtinti prieigą.  
+ ![prisijungti prie projekto](https://image.ibb.co/i4ueGH/prie_projekto.png)
+ Sekantis žingsniai kaip atrodo naujos komandos kūrimas arba prsijungimas prie esamos komandos.
+  ![Sukurti komanda](https://image.ibb.co/eNfKGH/projektas.png)
+ Komandos kapitonas sukuręs komandą matys šį langą, kur galės pakviesti narius ir diskutuoti su jais.
+ ![Paskyros langas] (https://image.ibb.co/dStH3x/komanda.png)
+ 
  ![alt text][logo] Komanda privalo būti sudaryta iš 2 - 4 studentų.
  
 ---
