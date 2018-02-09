@@ -22,7 +22,10 @@
 ---
  ![alt text][logo] Praktinių užduočių formuluotes rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues).<br/>
  ![alt text][logo] Sukurti naują Github paskyrą: `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`<br/>
- ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. invitation) jums automatiškai bus sukurta privati repozitorija (katalogas), kurią matysite jūs ir dėstytojas. <br/> 
+ ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. accept this assigment) jums automatiškai bus sukurta privati repozitorija (katalogas), kurią matysite jūs ir dėstytojas. 
+ Iššokęs langas, kurį matysite jeigu būsite prisijungę su naujai sukurta Github paskyra.
+ ![Invitation langas](https://image.ibb.co/ewCorH/invitation.png)
+ <br/> 
  ![alt text][logo] Visas atliktas praktines užduotis (issues tab'e): #1, #2, #3, #4 privalote talpinti šioje sukurtoje repozitorijoje naudojant kodo versijavimo sistemą Git.
  
 ---
