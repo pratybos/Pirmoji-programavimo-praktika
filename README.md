@@ -10,7 +10,7 @@
 ### TESTAS
 ---
  ![alt text][logo] Testas yra atliekamas kompiuterinėse auditorijose prie kolegijos PC, asmeninio kompiuterio, telefono, planšetės ar kito prietaiso turinčio internetinę naršyklę.\
-![alt text][logo] Testo-egzamino nuoroda (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtUNTVPRkpXUjhLTUxWRk1YS1E0TkwyNktaRi4u). Atlikti testą galėsite tik prisijungę prie mail.office365.com su suteiktu prisijungimo vardu (pvz.: s000012@ad.viko.lt).
+![alt text][logo] Testo nuoroda (https://forms.office.com/Pages/ResponsePage.aspx?id=UUqGQwxHFEOpOVe_McsROIvoJvCKyHVPvWo_cRWd6JtUNTVPRkpXUjhLTUxWRk1YS1E0TkwyNktaRi4u). Atlikti testą galėsite tik prisijungę prie mail.office365.com su suteiktu prisijungimo vardu (pvz.: s000012@ad.viko.lt).
 
 ---
 ### PRAKTINĖS UŽDUOTYS
@@ -18,7 +18,7 @@
  ![alt text][logo] Praktinių užduočių formuluotes rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues).<br/>
  ![alt text][logo] Sukurti naują Github paskyrą: `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`<br/>
  ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. invitation) jums automatiškai bus sukurta privati repozitorija (katalogas), kurią matysite jūs ir dėstytojas. <br/> 
- ![alt text][logo] Visas atliktas praktines užduotis: #1, #2, #3, #4 privalote talpinti šioje repozitorijoje.
+ ![alt text][logo] Visas atliktas praktines užduotis (issues tab'e): #1, #2, #3, #4 privalote talpinti šioje sukurtoje repozitorijoje naudojant kodo versijavimo sistemą Git.
  
 ---
 ### PROJEKTAS - DARBAS GRUPĖJE
@@ -26,7 +26,7 @@
  ![alt text][logo] Projekto detalesnį aprašą rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues/5).
  ![alt text][logo] Sukurti savo komandą ir sugalvoti jai pavadinimą. <br/>
  ![alt text][logo] Išsirinkite komandos vadovą.\
- ![alt text][logo] Komandos vadovas privalo pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) sukurti komandą ir į ją pakviesti komandos narius.\
+ ![alt text][logo] Komandos vadovas pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) privalo sukurti komandą ir į ją pakviesti komandos narius.\
  ![alt text][logo] Komanda privalo būti sudaryta iš 2 - 4 studentų.\
  
 ---
