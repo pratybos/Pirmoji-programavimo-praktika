@@ -39,7 +39,7 @@
  ![alt text][logo] Projekto detalesnį aprašą rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues/5).<br/>
  ![alt text][logo] Sukurti savo komandą ir sugalvoti jai pavadinimą. <br/>
  ![alt text][logo] Išsirinkite komandos vadovą.\
- ![alt text][logo] Komandos vadovas pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) privalo sukurti komandą ir į ją pakviesti komandos narius.\
+ ![alt text][logo] Komandos vadovas pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) privalo sukurti komandą ir į ją pakviesti komandos narius.
  
  Pamatę šį langą privalote patvirtinti prieigą:
  
@@ -51,7 +51,7 @@
  
  Komandos kapitonas sukuręs komandą matys šį langą, kur galės pakviesti narius ir diskutuoti su jais.<br/>
  
- ![Paskyros langas](https://image.ibb.co/dStH3x/komanda.png)
+ ![Paskyros langas](https://image.ibb.co/gfNYbH/team_kaip_atrodo.png)
  
  ![alt text][logo] Komanda privalo būti sudaryta iš 2 - 4 studentų.
  
