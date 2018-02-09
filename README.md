@@ -23,12 +23,12 @@
  ![alt text][logo] Praktinių užduočių formuluotes rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues).<br/>
  ![alt text][logo] Sukurti naują versijų kontrolės Github paskyrą: `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`<br/>
  ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. accept this assigment) (žr. 1 pav.).  ![Invitation langas](https://image.ibb.co/ewCorH/invitation.png)
-1 pav. Pakvietimo nuorodos langas (prisijungusiems su Github paskyra)
+`1 pav. Pakvietimo nuorodos langas (prisijungusiems su Github paskyra)`
  
  jums automatiškai bus sukurta privati repozitorija (katalogas), kurią matysite jūs ir dėstytojas (žr. 2 pav.). 
  
  ![Sukurta repo](https://image.ibb.co/b6idAc/sukurti_repo.png)
-2 pav. Sukurta nauja repozitorija grupes_pav+vartotojo_vardas.
+`2 pav. Sukurta nauja repozitorija grupes_pav+vartotojo_vardas.`
  
  Iššokęs langas, kurį matysite jeigu būsite prisijungę su naujai sukurta Github paskyra.
 
