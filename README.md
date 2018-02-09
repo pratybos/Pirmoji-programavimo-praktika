@@ -4,7 +4,7 @@
 ![alt text][logo] Visos atliktos užduotys privalo būti patalpintos Github aplinkoje (praktinės užduotys ir projektas). <br/>
 ![alt text][logo] Privalote laikytis sąžiningumo taisyklių, kadangi kodo versijavimo aplinkoje yra antiplagijavimo sistema, kuri parodo visus kodo fragmentų, dokumentų sutapimus, jeigu bus nustatyta jog pasiskolinote mintis iš kolegos užduotis bus neužskaitoma. <br/>
 ![alt text][logo] Žemiau rasite pateiktą informaciją ir reikalavimus užduotims atlikti.  
-![alt text][logo] Kompiliatorius online (https://www.tutorialspoint.com/compile_c_online.php).
+![alt text][logo] Kompiliatorius online (https://www.tutorialspoint.com/compile_c_online.php).<br/>
 ![alt text][logo] Programavimo IDE renkatės jūs: Dev-C/C++, Codelite, CodeBlocks, CLion ar kt.
 
 ---
