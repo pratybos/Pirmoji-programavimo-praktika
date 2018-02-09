@@ -23,14 +23,12 @@
 ---
 ### PROJEKTAS - DARBAS GRUPĖJE
 ---
+ ![alt text][logo] Projekto detalesnį aprašą rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues/5).
  ![alt text][logo] Sukurti savo komandą ir sugalvoti jai pavadinimą. <br/>
  ![alt text][logo] Išsirinkite komandos vadovą.\
- ![alt text][logo] Komandos vadovas privalo pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) sukurti komandą ir į ją pakviesti narius.\
+ ![alt text][logo] Komandos vadovas privalo pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) sukurti komandą ir į ją pakviesti komandos narius.\
  ![alt text][logo] Komanda privalo būti sudaryta iš 2 - 4 studentų.\
- ![alt text][logo] Vienas iš pagrindinių uždavinių susipažinti su kodo versijavimo sistema GIT, čia pora nuorodų kaip pradėti:\
- Github (https://www.youtube.com/watch?v=0fKg7e37bQE).
- Git (https://www.youtube.com/watch?v=SWYqp7iY_Tc).
-
+ 
 ---
 ### REZULTATAI
 ---
@@ -40,7 +38,7 @@
 ---
 ### APKLAUSA IR ATSILIEPIMAI 
 ---
- ![alt text][logo] Pateikite savo nuomonę, siūlymus pasinaudoje šia nuoroda (https://docs.google.com/forms/d/e/1FAIpQLSdPbeONXYZYX-kC_iFE4kcY6R8QEofm8_INNQOz9CER7xabpA/viewform?embedded=true).
+ ![alt text][logo] Pateikite savo nuomonę apie šio kurso trūkumus, privalumus, siūlymus pasinaudoje šia nuoroda: (https://docs.google.com/forms/d/e/1FAIpQLSdPbeONXYZYX-kC_iFE4kcY6R8QEofm8_INNQOz9CER7xabpA/viewform?embedded=true).
 
 ---
 ### SVARBI INFORMACIJA 
