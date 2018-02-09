@@ -27,7 +27,7 @@
  ![alt text][logo] Sukurti savo komandą ir sugalvoti jai pavadinimą. <br/>
  ![alt text][logo] Išsirinkite komandos vadovą.\
  ![alt text][logo] Komandos vadovas pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) privalo sukurti komandą ir į ją pakviesti komandos narius.\
- ![alt text][logo] Komanda privalo būti sudaryta iš 2 - 4 studentų.\
+ ![alt text][logo] Komanda privalo būti sudaryta iš 2 - 4 studentų.
  
 ---
 ### REZULTATAI
