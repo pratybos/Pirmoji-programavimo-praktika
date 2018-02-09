@@ -23,7 +23,7 @@
 ---
 ### PROJEKTAS - DARBAS GRUPĖJE
 ---
- ![alt text][logo] Projekto detalesnį aprašą rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues/5).\
+ ![alt text][logo] Projekto detalesnį aprašą rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues/5).<br/>
  ![alt text][logo] Sukurti savo komandą ir sugalvoti jai pavadinimą. <br/>
  ![alt text][logo] Išsirinkite komandos vadovą.\
  ![alt text][logo] Komandos vadovas pasinaudojęs šia nuoroda: (https://classroom.github.com/g/5xKI20tj) privalo sukurti komandą ir į ją pakviesti komandos narius.\
