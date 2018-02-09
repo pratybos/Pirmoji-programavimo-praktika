@@ -27,7 +27,7 @@
  
  jums automatiškai bus sukurta privati repozitorija (katalogas), kurią matysite jūs ir dėstytojas (žr. 2 pav.). 
  
- ![Sukurta repo](https://image.ibb.co/b6idAc/sukurti_repo.png)
+ ![Sukurta repo](https://image.ibb.co/g9DLqc/sukurti_repo.png)
 `2 pav. Sukurta nauja repozitorija grupes_pav+vartotojo_vardas.`
  <br/> 
  
