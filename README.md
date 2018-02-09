@@ -29,11 +29,9 @@
  
  ![Sukurta repo](https://image.ibb.co/b6idAc/sukurti_repo.png)
 `2 pav. Sukurta nauja repozitorija grupes_pav+vartotojo_vardas.`
- 
- Iššokęs langas, kurį matysite jeigu būsite prisijungę su naujai sukurta Github paskyra.
-
  <br/> 
- ![alt text][logo] Visas atliktas praktines užduotis (issues tab'e): #1, #2, #3, #4 privalote talpinti šioje sukurtoje repozitorijoje naudojant kodo versijavimo sistemą Git.
+ 
+ ![alt text][logo] Visas atliktas praktines užduotis esančias (issues tab'e): #1, #2, #3, #4 privalote talpinti šioje sukurtoje repozitorijoje naudojant kodo versijavimo sistemą Git.
  
 ---
 ### PROJEKTAS - DARBAS GRUPĖJE
