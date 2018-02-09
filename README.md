@@ -1,6 +1,6 @@
 ### SVARBI INFORMACIJA 
 ---
-![alt text][logo] Visos atliktos užduotys privalo būti patalpintos Github aplinkoje (praktinės užduotys ir projektas). 
+![alt text][logo] Visos atliktos užduotys privalo būti patalpintos Github aplinkoje (praktinės užduotys ir projektas). <br/>
 ![alt text][logo] Privalote laikytis sąžiningumo taisyklių, kadangi kodo versijavimo aplinkoje yra antiplagijavimo sistema, kuri parodo visus kodo fragmentų, dokumentų sutapimus, jeigu bus nustatyta jog pasiskolinote mintis iš kolegos užduotis bus neužskaitoma. Žemiau rasite pateiktą informaciją ir reikalavimus užduotims atlikti.  
 
 ---
