@@ -1,3 +1,7 @@
+### SVARBI INFORMACIJA 
+---
+![alt text][logo] Visos atliktos užduotys privalo būti patalpintos Github aplinkoje (praktinės užduotys ir projektas). 
+![alt text][logo] Privalote laikytis sąžiningumo taisyklių, kadangi kodo versijavimo aplinkoje yra antiplagijavimo sistema, kuri parodo visus kodo fragmentų, dokumentų sutapimus, jeigu bus nustatyta jog pasiskolinote mintis iš kolegos užduotis bus neužskaitoma. Žemiau rasite pateiktą informaciją ir reikalavimus užduotims atlikti.  
 
 ---
 ### VERTINIMO KRITERIJAI - KAUPIAMOJO BALO FORMULĖ 
@@ -41,11 +45,5 @@
  ![alt text][logo] Pateikite savo nuomonę apie šio kurso trūkumus, privalumus, siūlymus pasinaudoje šia nuoroda: (https://docs.google.com/forms/d/e/1FAIpQLSdPbeONXYZYX-kC_iFE4kcY6R8QEofm8_INNQOz9CER7xabpA/viewform?embedded=true).
 
 ---
-### SVARBI INFORMACIJA 
----
 
- ![alt text][logo] Visos nuorodos vienoje vietoje norint gauti pakvietimą skirtą užduotims atlikti (Praktinės, Projektas), kur jum sukurs naują repozitoriją : (https://classroom.github.com/classrooms/34885264-vk-eif-marius-gzegozevskis).<br/>
- ![alt text][logo] Internetinė svetainė: https://eif-courses.github.io/ visi reikalavimai pateikti ten jums yra negaliojantys. Viskas kas aprašyta aukščiau yra teisinga ir tuo vadovautis.
-
----
 [logo]: https://github.com/eif-courses/Duomenu-strukturos-ir-algoritmai/blob/master/list%20item.png "list item rectangle"
