@@ -38,6 +38,9 @@
 ### PRAKTINĖS UŽDUOTYS
 ---
  ![alt text][logo] Praktinių užduočių formuluotes rasite čia: (https://github.com/pratybos/Pirmoji-programavimo-praktika/issues).<br/>
+ ![Issues tabas](https://image.ibb.co/hKgOwS/issues.png)<br/>
+ `0 pav. Issues. Čia rasite praktinių užduočių reikalavimus ir pavyzdžius`
+ 
  ![alt text][logo] Sukurti naują versijų kontrolės Github paskyrą: `pvz: Marius.Gzegozevskis, M.Gzegozevskis ir pnš.`<br/>
  ![alt text][logo] Paspaudę šią nuorodą (https://classroom.github.com/a/VMxdf01Y) ir priėmę pakvietimą (angl. accept this assigment) (žr. 1 pav.):  ![Invitation langas](https://image.ibb.co/ewCorH/invitation.png)
 `1 pav. Pakvietimo nuorodos langas (prisijungusiems su Github paskyra)`
