@@ -66,7 +66,7 @@
  
  ![Sukurti komanda](https://image.ibb.co/eNfKGH/projektas.png)
  
- Komandos kapitonas sukuręs komandą matys šį langą, kur galės pakviesti narius ir diskutuoti su jais.<br/>
+ Komandos kapitonas sukūręs komandą matys šį langą, kur galės pakviesti narius ir diskutuoti su jais.<br/>
  
  ![Paskyros langas](https://image.ibb.co/gfNYbH/team_kaip_atrodo.png)
  
