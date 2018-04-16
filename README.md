@@ -1,4 +1,10 @@
+# STRUKTŪRIZUOTĄ KURSO APRAŠĄ RASITE ŠIOJE SVETAINĖJE: [https://eif-courses.github.io/pratybos/](https://eif-courses.github.io/pratybos/)
+
+
+
 ### SVARBI INFORMACIJA 
+
+### Po pakeitimų internetinėje svetainėje ši informacija gali skirtis tisklesnę info rasite čia: [https://eif-courses.github.io/pratybos/](https://eif-courses.github.io/pratybos/).
 ---
 ![alt text][logo] Visos užduotys yra atliekamos naudojant programavimo kalbą C/C++.  <br/>
 ![alt text][logo] Visos atliktos užduotys privalo būti patalpintos Github aplinkoje (praktinės užduotys ir projektas). <br/>
